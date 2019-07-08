@@ -1,10 +1,7 @@
 package com.sa.swap;
-
 import java.util.Scanner;
-
 public class Vowel {
-
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		 char ch;
 		 Scanner sc=new Scanner(System.in);
 		    System.out.println("Enter the character\t:");
